@@ -14,4 +14,47 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cElite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cEsbirroEspadachin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cEsbirroMago.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cJefe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cMonstruo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cPersona.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cElite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cEsbirroEspadachin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cEsbirroMago.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cJefe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cMonstruo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cPersona.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
